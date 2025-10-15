@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP Envy 13",
+    "categoria": "Computadoras",
+    "descripcion": "Ultrabook liviana con pantalla táctil Full HD, procesador Intel i7 de 11va generación, 16GB RAM y SSD de 512GB",
+    "precio": 1200,
+    "marca": "HP",
+    "stock": 15,
+    "calificacion": 4.5,
+    "fecha_lanzamiento": "2023-06-15"
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Samsung 24\"",
+    "categoria": "Periféricos",
+    "descripcion": "Monitor LED con resolución Full HD y entrada HDMI, diseño sin bordes y ajuste de altura",
+    "precio": 250,
+    "marca": "Samsung",
+    "stock": 25,
+    "calificacion": 4.2,
+    "fecha_lanzamiento": "2023-03-10"
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse Logitech MX Master 3",
+    "categoria": "Accesorios",
+    "descripcion": "Mouse ergonómico inalámbrico con múltiples botones programables y sensor de alta precisión",
+    "precio": 100,
+    "marca": "Logitech",
+    "stock": 50,
+    "calificacion": 4.8,
+    "fecha_lanzamiento": "2022-11-20"
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Mecánico Corsair K95",
+    "categoria": "Accesorios",
+    "descripcion": "Teclado mecánico RGB con switches Cherry MX y teclas macro programables",
+    "precio": 180,
+    "marca": "Corsair",
+    "stock": 12,
+    "calificacion": 4.6,
+    "fecha_lanzamiento": "2023-01-25"
+  },
+  {
+    "id": 5,
+    "nombre": "SSD Kingston NV2 1TB",
+    "categoria": "Almacenamiento",
+    "descripcion": "Unidad de estado sólido NVMe PCIe 4.0 con velocidades de lectura hasta 3,500 MB/s",
+    "precio": 75,
+    "marca": "Kingston",
+    "stock": 30,
+    "calificacion": 4.3,
+    "fecha_lanzamiento": "2023-08-12"
+  },
+  {
+    "id": 6,
+    "nombre": "Webcam Logitech C920",
+    "categoria": "Periféricos",
+    "descripcion": "Cámara web Full HD 1080p con micrófono estéreo integrado y enfoque automático",
+    "precio": 90,
+    "marca": "Logitech",
+    "stock": 20,
+    "calificacion": 4.4,
+    "fecha_lanzamiento": "2022-09-05"
+  },
+  {
+    "id": 7,
+    "nombre": "Auriculares Sony WH-1000XM4",
+    "categoria": "Audio",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido activa y hasta 30 horas de batería",
+    "precio": 350,
+    "marca": "Sony",
+    "stock": 8,
+    "calificacion": 4.7,
+    "fecha_lanzamiento": "2023-05-18"
+  },
+  {
+    "id": 8,
+    "nombre": "Impresora HP LaserJet Pro",
+    "categoria": "Periféricos",
+    "descripcion": "Impresora láser monocromática con conectividad WiFi y impresión dúplex automática",
+    "precio": 220,
+    "marca": "HP",
+    "stock": 6,
+    "calificacion": 4.1,
+    "fecha_lanzamiento": "2023-02-28"
+  },
+  {
+    "id": 9,
+    "nombre": "Router ASUS AX6000",
+    "categoria": "Redes",
+    "descripcion": "Router WiFi 6 de doble banda con 8 antenas y velocidades hasta 6000 Mbps",
+    "precio": 300,
+    "marca": "ASUS",
+    "stock": 10,
+    "calificacion": 4.5,
+    "fecha_lanzamiento": "2023-04-07"
+  },
+  {
+    "id": 10,
+    "nombre": "Tablet iPad Air",
+    "categoria": "Tablets",
+    "descripcion": "Tablet con chip M1, pantalla Liquid Retina de 10.9 pulgadas y compatibilidad con Apple Pencil",
+    "precio": 600,
+    "marca": "Apple",
+    "stock": 18,
+    "calificacion": 4.6,
+    "fecha_lanzamiento": "2023-07-10"
+  }
+]
