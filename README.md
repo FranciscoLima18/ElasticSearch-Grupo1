@@ -24,7 +24,7 @@ Este proyecto implementa un entorno completo de ElasticSearch usando Docker, con
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone <tu-repositorio>
+git clone https://github.com/FranciscoLima18/ElasticSearch-Grupo1/
 cd ElasticSearch-Grupo1
 ```
 
@@ -32,10 +32,10 @@ cd ElasticSearch-Grupo1
 
 ```bash
 # Iniciar ElasticSearch y Kibana
-docker-compose up -d
+docker compose up -d
 
 # Verificar que los servicios estén ejecutándose
-docker-compose ps
+docker compose ps
 ```
 
 ### 3. Verificar que ElasticSearch esté disponible
@@ -277,19 +277,19 @@ ElasticSearch-Grupo1/
 
 ```bash
 # Ver logs de ElasticSearch
-docker-compose logs elasticsearch
+docker compose logs elasticsearch
 
 # Ver logs de Kibana
-docker-compose logs kibana
+docker compose logs kibana
 
 # Reiniciar servicios
-docker-compose restart
+docker compose restart
 
 # Detener servicios
-docker-compose down
+docker compose down
 
 # Eliminar volúmenes (datos)
-docker-compose down -v
+docker compose down -v
 ```
 
 ### ElasticSearch
@@ -320,7 +320,7 @@ free -h
 sudo sysctl -w vm.max_map_count=262144
 
 # Verificar logs
-docker-compose logs elasticsearch
+docker compose logs elasticsearch
 ```
 
 ### Kibana no se conecta
@@ -330,7 +330,7 @@ docker-compose logs elasticsearch
 curl http://localhost:9200/_cluster/health
 
 # Reiniciar Kibana
-docker-compose restart kibana
+docker compose restart kibana
 ```
 
 ### Script Python falla
