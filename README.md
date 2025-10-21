@@ -355,18 +355,8 @@ pip install -r requirements.txt
 
 ## 👥 Información del Proyecto
 
-- **Curso**: Bases de Datos NoSQL
+- **Curso**: Big Data
 - **Grupo**: 1
 - **Tecnología**: ElasticSearch (Modelo de Documentos)
-- **Autor**: [Tu Nombre]
+- **Autor**: Francisco Lima, Mateo Rodriguez, Ana Clara Sena
 - **Fecha**: Octubre 2025
-
-## 📄 Licencia
-
-Este proyecto es para fines educativos como parte del curso de Bases de Datos NoSQL.
-
----
-
-**¡Proyecto listo para demostración!** 🎉
-
-Para cualquier consulta o problema, revisa los logs de Docker y la documentación oficial de ElasticSearch.
